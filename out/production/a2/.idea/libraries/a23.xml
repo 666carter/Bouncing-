@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="a23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/distributions/a2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
