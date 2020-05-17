@@ -21,4 +21,6 @@ GAME SETTING:
 1: The color of the blocks are randomly assigned
 2: The resizing is supported, but there is a minimum size setting for this game
 
+Here is the game preview:
+
 ![WechatIMG150 1](https://user-images.githubusercontent.com/25713305/82141815-4c90b880-9806-11ea-9b3b-e3ea8acb917a.jpeg)
